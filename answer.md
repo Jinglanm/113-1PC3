@@ -55,7 +55,7 @@ public void mt_getResult(){
 
 1. (請參照題目pdf)
 
-Ans:
+Ans:二元樹
 
 2. (請參照題目pdf)
 
